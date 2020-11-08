@@ -1,0 +1,38 @@
+.container{
+  border: 4px solid red;
+  max-width: 1000px;
+  height: 800px;
+  align-items: center;
+}
+.total{
+  margin-right: auto;
+  margin-left: auto;
+  background-color: lightblue;
+  max-width: 500px;
+  height: 400px;
+  text-align: center;
+  align-items: center;
+}
+.center{
+  background-color: thistle;
+  max-width: 400px;
+  display: flex;
+
+}
+.pp{
+  color: rebeccapurple;
+  font-size: 20px;
+}
+.link-on-center{
+  background-color: lightgreen;
+  color: black;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  height: 30px;
+}
+.link-on-center:hover{
+  background-color: black;
+  color: white;
+
+}
